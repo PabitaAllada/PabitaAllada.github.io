@@ -1,3 +1,3 @@
-# pabita.github.io
+# pabitaallada.github.io
 
-Please visit [my site here](http://pabita.github.io) for reference to my Portfolio.
+Please visit [my site here](http://pabitaallada.github.io) for reference to my Portfolio.
